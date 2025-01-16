@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "31727183-e44c-40bd-808c-61849156928c")
 	(paper "A3")
+	(title_block
+		(title "Temperature Logger - TempLog - V0")
+		(date "2025-01-15")
+		(rev "Rev0")
+		(company "Uri Tech")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:LM321"
 			(pin_names
@@ -8404,7 +8410,7 @@
 			(uuid "e554f7ca-ddec-406e-b3c8-3d2266b3ff7c")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "J3")
 					(unit 1)
@@ -8474,7 +8480,7 @@
 			(uuid "5223394e-f57b-464c-a079-f4d0324b1374")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "D2")
 					(unit 1)
@@ -8540,7 +8546,7 @@
 			(uuid "38e12806-594f-46ff-9ace-46e6a3ec67b5")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR027")
 					(unit 1)
@@ -8617,7 +8623,7 @@
 			(uuid "b46e7965-eafb-4f77-b98c-b922cdbf28a5")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "U6")
 					(unit 1)
@@ -8716,7 +8722,7 @@
 			(uuid "0406943b-d16e-4b98-b956-49a7125567c2")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C10")
 					(unit 1)
@@ -8793,7 +8799,7 @@
 			(uuid "4178c8ce-5892-4434-bd00-c54fa411f8a5")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "U3")
 					(unit 1)
@@ -8895,7 +8901,7 @@
 			(uuid "186d9218-267c-408b-9140-3c4c387effa2")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "Q1")
 					(unit 1)
@@ -8994,7 +9000,7 @@
 			(uuid "ec89c8a0-89ac-4a92-84be-3fd5adbfcc14")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C11")
 					(unit 1)
@@ -9064,7 +9070,7 @@
 			(uuid "e8b4f9af-7675-4ab2-9ce6-77ba9e19e82b")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "R6")
 					(unit 1)
@@ -9129,7 +9135,7 @@
 			(uuid "2f8f4b0e-28e1-47cd-a0ed-7eebee53269a")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR020")
 					(unit 1)
@@ -9199,7 +9205,7 @@
 			(uuid "f4b02f77-30e9-4dd5-ad7f-e99a5fdf1079")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C7")
 					(unit 1)
@@ -9269,7 +9275,7 @@
 			(uuid "412adb67-c418-46ea-a82c-b171e1b66f58")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "R2")
 					(unit 1)
@@ -9336,7 +9342,7 @@
 			(uuid "0230502c-608a-4db8-b62f-706424eada55")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "TP9")
 					(unit 1)
@@ -9435,7 +9441,7 @@
 			(uuid "c7aa9dd9-ac78-4339-902a-30d76709c2c1")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C9")
 					(unit 1)
@@ -9500,7 +9506,7 @@
 			(uuid "253e4e00-3ddc-48f3-86a2-d739e65fe3dc")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR012")
 					(unit 1)
@@ -9565,7 +9571,7 @@
 			(uuid "808b2a1d-bb2e-4675-a682-582445de1ab7")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR019")
 					(unit 1)
@@ -9632,7 +9638,7 @@
 			(uuid "5551b08d-fe62-49ae-ac34-647a9378cb8a")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "TP1")
 					(unit 1)
@@ -9702,7 +9708,7 @@
 			(uuid "5a2f7906-d91c-4a16-8f16-668448b6f65a")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "R11")
 					(unit 1)
@@ -9769,7 +9775,7 @@
 			(uuid "e3a824b9-f92d-499b-9f3c-5dd488739afa")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "TP4")
 					(unit 1)
@@ -9839,7 +9845,7 @@
 			(uuid "a7ca79ac-f689-40e7-bd44-52d24cd0f2c4")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "R1")
 					(unit 1)
@@ -9906,7 +9912,7 @@
 			(uuid "ca838636-a735-4780-ae52-aa6a1a905485")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "TP10")
 					(unit 1)
@@ -9972,7 +9978,7 @@
 			(uuid "40d678b4-ccb5-40d4-9b66-188d7e00a3e7")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR024")
 					(unit 1)
@@ -10038,7 +10044,7 @@
 			(uuid "b1111222-f60b-44d6-998d-5d6c475d17cd")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR023")
 					(unit 1)
@@ -10108,7 +10114,7 @@
 			(uuid "a8d1aaf6-d2df-48a9-8c10-c9179c9c3bd6")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C4")
 					(unit 1)
@@ -10196,7 +10202,7 @@
 			(uuid "00c45527-b1cb-460d-a5b6-b923d2499f7f")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "SW1")
 					(unit 1)
@@ -10261,7 +10267,7 @@
 			(uuid "9a3544b5-59f1-4277-a5a1-b2339efa5fe7")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR013")
 					(unit 1)
@@ -10338,7 +10344,7 @@
 			(uuid "54840270-67a2-4be0-a897-467ecb4013d6")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "Y1")
 					(unit 1)
@@ -10406,7 +10412,7 @@
 			(uuid "335e536c-f1eb-49ff-b40c-5e105c3da7a4")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "J5")
 					(unit 1)
@@ -10471,7 +10477,7 @@
 			(uuid "e713c619-3e4a-4544-9f7e-e8982fec293a")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR09")
 					(unit 1)
@@ -10680,7 +10686,7 @@
 			(uuid "224f3a08-a8a6-4c63-8676-7a6dbb5a8af5")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "U1")
 					(unit 1)
@@ -10746,7 +10752,7 @@
 			(uuid "a4289355-6f1e-4d93-bfd4-cf85e5bd880e")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR015")
 					(unit 1)
@@ -10816,7 +10822,7 @@
 			(uuid "3b45408d-4a62-4fd0-ad78-12030bdfa3e8")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "R3")
 					(unit 1)
@@ -10893,7 +10899,7 @@
 			(uuid "328a0181-fe34-4a68-bb3d-2eb7e5780449")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "U4")
 					(unit 1)
@@ -10960,7 +10966,7 @@
 			(uuid "42913dde-dfd9-4909-8cc3-6fb2519c0b66")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "TP6")
 					(unit 1)
@@ -11027,7 +11033,7 @@
 			(uuid "42743043-fcaf-4331-9105-5f2928096918")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "TP11")
 					(unit 1)
@@ -11092,7 +11098,7 @@
 			(uuid "4aaa0d70-7393-41be-9126-a8feaf844177")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR014")
 					(unit 1)
@@ -11205,7 +11211,7 @@
 			(uuid "9aa4d1c2-5bc4-4f8b-a6a6-6e48a8661d51")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "J6")
 					(unit 1)
@@ -11275,7 +11281,7 @@
 			(uuid "c845ee42-4e02-4b6c-bcd6-2cf185e7e66f")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "R10")
 					(unit 1)
@@ -11367,7 +11373,7 @@
 			(uuid "24461d6a-1336-44cf-afd5-a4050548e8d9")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "J1")
 					(unit 1)
@@ -11437,7 +11443,7 @@
 			(uuid "6a71991b-df9f-48ad-9a64-7fa8a7d867da")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C6")
 					(unit 1)
@@ -11504,7 +11510,7 @@
 			(uuid "829ae74f-197e-4aa5-b98a-c21b2dad95d7")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "TP7")
 					(unit 1)
@@ -11570,7 +11576,7 @@
 			(uuid "a332999b-adc4-4c94-bd82-4279943af11a")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR021")
 					(unit 1)
@@ -11636,7 +11642,7 @@
 			(uuid "9c6805fb-9e97-4bb7-857e-461b8358c7a9")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR025")
 					(unit 1)
@@ -11706,7 +11712,7 @@
 			(uuid "b0fb74f3-4afe-4183-9e13-68dd2e2b7b52")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C8")
 					(unit 1)
@@ -11805,7 +11811,7 @@
 			(uuid "074ec7e8-5a47-4ce5-a92a-18fe0944d5b0")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C3")
 					(unit 1)
@@ -11871,7 +11877,7 @@
 			(uuid "ee07bbe3-37d8-4581-a2e2-9afb88087e9c")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR02")
 					(unit 1)
@@ -11938,7 +11944,7 @@
 			(uuid "893d657d-2e32-4ef5-a343-34326a6db55a")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "TP12")
 					(unit 1)
@@ -12004,7 +12010,7 @@
 			(uuid "030a8bad-93e2-4b37-aa0b-81f6e6b7bed2")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR07")
 					(unit 1)
@@ -12074,7 +12080,7 @@
 			(uuid "7f1db5de-7f78-4964-8011-392f82203308")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "R9")
 					(unit 1)
@@ -12140,7 +12146,7 @@
 			(uuid "9469a7b7-7b9f-459e-9f73-619f4539fc38")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR05")
 					(unit 1)
@@ -12206,7 +12212,7 @@
 			(uuid "7d4b2a06-217f-40eb-97f5-13258acebdb7")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR018")
 					(unit 1)
@@ -12272,7 +12278,7 @@
 			(uuid "14c4922e-a892-466d-8fad-cd94428f6fe0")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR04")
 					(unit 1)
@@ -12342,7 +12348,7 @@
 			(uuid "35401eb1-dfc0-4b40-9b69-358e8669f4d6")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "D1")
 					(unit 1)
@@ -12407,7 +12413,7 @@
 			(uuid "be5be271-aaa7-495d-8a2f-e4e54cef9dff")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR017")
 					(unit 1)
@@ -12475,7 +12481,7 @@
 			(uuid "3b64fa30-e3a1-40bd-8f99-64ca25c40cde")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "J2")
 					(unit 1)
@@ -12541,7 +12547,7 @@
 			(uuid "f30ceacf-ff6b-40c2-8c2a-e8b87ec09560")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR010")
 					(unit 1)
@@ -12607,7 +12613,7 @@
 			(uuid "d8792bf3-9825-4c4f-b2e8-132bdb4cdc5e")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR01")
 					(unit 1)
@@ -12695,7 +12701,7 @@
 			(uuid "09de2cb3-9bd4-40f0-9916-a6728866019b")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "SW2")
 					(unit 1)
@@ -12761,7 +12767,7 @@
 			(uuid "a98e7df3-9b6f-4407-a502-4bc1b9bef276")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR022")
 					(unit 1)
@@ -12831,7 +12837,7 @@
 			(uuid "c271a2c2-f62d-4009-bad7-6be866f700da")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C1")
 					(unit 1)
@@ -12918,7 +12924,7 @@
 			(uuid "72656b7d-5a7b-4be9-bed6-e2ef6606fc03")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "U2")
 					(unit 1)
@@ -12988,7 +12994,7 @@
 			(uuid "c34660a0-86ab-4664-8b94-c62df240344d")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "R4")
 					(unit 1)
@@ -13065,7 +13071,7 @@
 			(uuid "fb5dca0e-0427-45ae-b045-5e7ea199f125")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "Y2")
 					(unit 1)
@@ -13132,7 +13138,7 @@
 			(uuid "19aea2e2-b166-47d2-93a3-9675f3e799b4")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "TP3")
 					(unit 1)
@@ -13198,7 +13204,7 @@
 			(uuid "1c213bb4-aef5-446b-8f83-7086713dd716")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR06")
 					(unit 1)
@@ -13264,7 +13270,7 @@
 			(uuid "7ee4ef19-a3ef-4ca2-a0cc-828a78b6fc6c")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR016")
 					(unit 1)
@@ -13330,7 +13336,7 @@
 			(uuid "48fb052a-5c04-4254-b690-1f920b2f4017")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR08")
 					(unit 1)
@@ -13429,7 +13435,7 @@
 			(uuid "0b8759ce-8228-4c5b-8747-cbbb4e4af41b")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C2")
 					(unit 1)
@@ -13528,7 +13534,7 @@
 			(uuid "66c850e9-6bfa-451e-a8de-be287353322b")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C12")
 					(unit 1)
@@ -13594,7 +13600,7 @@
 			(uuid "76434a69-5423-4966-a856-1de3d2532354")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR03")
 					(unit 1)
@@ -13664,7 +13670,7 @@
 			(uuid "5d64e1ef-0730-4946-8719-72046cfef163")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "C5")
 					(unit 1)
@@ -13734,7 +13740,7 @@
 			(uuid "445b7566-7302-4090-aad6-7def893cbb2f")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "R5")
 					(unit 1)
@@ -13801,7 +13807,7 @@
 			(uuid "0d9454dc-426e-40a0-ae41-d47db34334ae")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "TP5")
 					(unit 1)
@@ -13867,7 +13873,7 @@
 			(uuid "be2068e3-f2b4-40d0-9ada-f9d07e0789ad")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR028")
 					(unit 1)
@@ -13934,7 +13940,7 @@
 			(uuid "e78b8e09-5015-46fe-a547-94f1856488e7")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "TP8")
 					(unit 1)
@@ -14004,7 +14010,7 @@
 			(uuid "97e78861-0b00-4415-b7bd-d4c5ee26711f")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "R8")
 					(unit 1)
@@ -14070,7 +14076,7 @@
 			(uuid "65b69b9b-3d0e-468a-873c-8f55d974bb13")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR011")
 					(unit 1)
@@ -14136,7 +14142,7 @@
 			(uuid "6819ba9b-b495-46f8-8dce-59f734dcfafb")
 		)
 		(instances
-			(project "TEMP_LOGGER"
+			(project "TempLog"
 				(path "/31727183-e44c-40bd-808c-61849156928c"
 					(reference "#PWR026")
 					(unit 1)
