@@ -3,19 +3,19 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.2-1"
+      "Version": "9.0.0"
     },
-    "CreationDate": "2024-07-15T21:16:38-07:00"
+    "CreationDate": "2025-03-17T13:33:28-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "TEMP_LOGGER",
-      "GUID": "54454d50-5f4c-44f4-9747-45522e6b6963",
+      "Name": "TempLog",
+      "GUID": "54656d70-4c6f-4672-9e6b-696361645f70",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 57.05,
-      "Y": 54.55
+      "X": 40.05,
+      "Y": 50.05
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -24,9 +24,9 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
-      "TrackToTrack": 0.2,
+      "PadToPad": 0.15,
+      "PadToTrack": 0.15,
+      "TrackToTrack": 0.15,
       "MinLineWidth": 0.2,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "TEMP_LOGGER-F_Cu.gtl",
+      "Path": "TempLog-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TEMP_LOGGER-B_Cu.gbl",
+      "Path": "TempLog-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TEMP_LOGGER-F_Paste.gtp",
+      "Path": "TempLog-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TEMP_LOGGER-B_Paste.gbp",
+      "Path": "TempLog-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TEMP_LOGGER-F_Silkscreen.gto",
+      "Path": "TempLog-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TEMP_LOGGER-B_Silkscreen.gbo",
+      "Path": "TempLog-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TEMP_LOGGER-F_Mask.gts",
+      "Path": "TempLog-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "TEMP_LOGGER-B_Mask.gbs",
+      "Path": "TempLog-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "TEMP_LOGGER-Edge_Cuts.gm1",
+      "Path": "TempLog-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
